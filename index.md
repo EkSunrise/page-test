@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Github 페이지 실습중입니다.
 
 You can use the [editor on GitHub](https://github.com/EkSunrise/page-test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
